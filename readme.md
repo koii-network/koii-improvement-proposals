@@ -1,3 +1,14 @@
+To apply for grants from the Koii Foundation, you can open a KIP by creating a .md file in this folder.
+
+Your .md file must contain a clear and concise descrption of your proposed improvement. 
+
+Be sure to clearly title your file in the following format:
+```
+KIP-11099-Something-Descriptive.md
+```
+
+Open a fork of this repo to create your file, then pull request it back to here. [Tutorial](https://www.youtube.com/watch?v=a_FLqX3vGR4)
+
 # Koii Improvement Proposals (KIP)
 
 Koii is decentralized, this is the suggestion box.
